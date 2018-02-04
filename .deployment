@@ -1,2 +1,2 @@
 [config]
-command = deploy.cmd
+command = ./Website/deploy.cmd
